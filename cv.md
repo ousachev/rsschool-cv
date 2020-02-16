@@ -25,6 +25,8 @@ https://github.com/ousachev/
 
 ### Experience
 
+I have no experience in the commercial development of sites and applications.
+
 ### Education
 
 Academy of Labor and Social Relations(Manager of Innovation)
