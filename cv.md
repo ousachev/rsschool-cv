@@ -18,6 +18,7 @@ Since then I have been improving my skills. I have been studying ReactJS.
 - JS
 - ReactJS
 - Git
+- Webpack
 
 ### Code examples
 
