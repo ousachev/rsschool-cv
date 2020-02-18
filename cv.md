@@ -34,4 +34,4 @@ Academy of Labor and Social Relations(Manager of Innovation)
 
 ### English
 
-English from university and self taught. Reading book, technical documentation, wathing movies.
+My english level is Intermediate (B1). I can read technical documentation, can communicate.
