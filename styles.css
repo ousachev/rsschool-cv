@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+  background: linear-gradient(
+    to bottom,
+    rgb(6, 11, 59),
+    rgb(12, 39, 86),
+    rgb(18, 66, 113),
+    rgb(25, 94, 140),
+    rgb(31, 121, 167),
+    rgb(37, 149, 194),
+    rgb(55, 159, 169),
+    rgb(73, 168, 143),
+    rgb(92, 178, 118),
+    rgb(110, 188, 92),
+    rgb(128, 197, 67),
+    rgb(146, 207, 41)
+  );
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  width: 1024px;
+}
+
+h1 {
+  font-size: 50px;
+  color: papayawhip;
+}
+
+h2 {
+  color: lightyellow;
+}
+a {
+  text-decoration: none;
+  color: lightblue;
+}
+
+.resume {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+
+.subtitle {
+  font-size: 24px;
+  color: wheat;
+}
+
+.resume__item,
+.subtitle,
+.welcome {
+  margin-bottom: 40px;
+}
+
+.resume__subtitle {
+  margin-bottom: 15px;
+}
+.resume__contact {
+  font-size: 20px;
+  color: aliceblue;
+}
+
+.text-quote {
+  padding-left: 30px;
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.resume__text {
+  font-weight: bold;
+  width: 400px;
+}
